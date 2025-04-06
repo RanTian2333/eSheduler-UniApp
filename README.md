@@ -1,4 +1,4 @@
-# e-Sheduler-UniApp电子课程表项目说明
+# eSheduler-UniApp电子课程表项目说明
 ![GitHub All Releases](https://img.shields.io/github/downloads/yourusername/e-Sheduler-UniApp/total)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/e-Sheduler-UniApp?style=social)
 
@@ -27,9 +27,7 @@
 📲 **Web端**：直接在浏览器中访问项目部署的网址，即可使用。
 
 📱 **手机端**：
-
-- **iOS系统**：在App Store中搜索“e-Sheduler-UniApp”，点击下载并安装。
-- 
+ 
 - **Android系统**：扫描项目官方提供的二维码，下载APK文件进行安装。
 
 ### （二）登录与课程同步
